@@ -1,0 +1,13 @@
+Mozilla/5.0 (Windows NT 6.3; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; ASJB; MSAppHost/2.0; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; ASU2JS; MSAppHost/2.0; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; ASU2JS; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; ASU2JS; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; ASU2JS; MSAppHost/2.0; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP08; MAAU; NP08; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; NP08; NP08; MAAU; rv:11.0) like Gecko
+Mozilla/5.0 (Windows NT 6.3; Win64; x64; Trident/7.0; Touch; ASU2JS; rv:11.0) like Gecko
+Mozilla/5.0 (Linux; U; Android 4.3; en-in; ASUS_T00J Build/JSS15Q) AppleWebKit/534.30 (KHTML, like Gecko)
+Dalvik/1.6.0 (Linux; U; Android 4.4.2; ASUS_T00Q Build/KVT49L)/CLDC-1.1
+Dalvik/1.6.0 (Linux; U; Android 4.3; Nexus 7 Build/JSS15R)
+Mozilla/5.0 (Linux; Android 4.2.1; ASUS Transformer Pad TF300TG Build/GRIMLOCK) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Safari/537.36
